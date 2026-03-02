@@ -1,0 +1,20 @@
+🚗 Smart Parking System – Components Used
+🔹 Main Controller
+ESP32 Development Board
+
+🔹 Sensors
+4 × Ultrasonic Sensor (HC-SR04)
+Slot 1
+Slot 2
+Slot 3
+Entry Detection
+
+🔹 Output Devices
+1 × Servo Motor (Gate Control)
+1 × 0.96" OLED Display (I2C, SSD1306)
+
+🔹 Other
+Jumper wires
+Breadboard
+Power supply (5V / USB)
+
